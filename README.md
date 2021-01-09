@@ -1,1 +1,1 @@
-# chess_hackershala
+# chess-game
